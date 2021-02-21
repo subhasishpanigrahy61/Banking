@@ -1,0 +1,8 @@
+.navbar{
+    z-index: 1000;
+}
+#list{
+    font-weight: 700;
+    font-size: larger;
+    color: black;
+}

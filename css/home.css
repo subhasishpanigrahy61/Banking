@@ -1,0 +1,21 @@
+#cover{
+  position: fixed;
+  top:55px;
+  height: 100%;
+  width:100%;
+  z-index: -1;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1{
+  user-select: none;
+  font-weight: 600;
+  font-size: 64px;
+  color: rgb(255, 254, 254);
+  text-shadow: 0 0 2px rgb(87, 86, 86);
+  margin-top: 37vh;
+  margin-left: 35vw;
+  text-align: center;
+}
